@@ -10,15 +10,15 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a law firm.
+description: Onde a calma encontra a tranquilidade.
 author:
-  name:
+  name: Retiro do Acude
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Justice Template
+  name: RetiroDoAcude
   links:
-    - https://github.com/CloudCannon/justice-jekyll-template
+    - https://www.instagram.com/retirodoacude?igsh=MWU1bzBjNHYyY3gwNw==
 
 # -----
 # Build
